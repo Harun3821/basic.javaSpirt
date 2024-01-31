@@ -146,11 +146,26 @@
 //     console.log('i am not harun')
 // }
 
-let books = ' Ban  glA '
-let subjects = 'Ban gla '
-if(books.trim()  ===  subjects.trim()){
-    console.log('i am bangla porty volo basice');
-}
-else{
-    console.log('bangla khub hard subject');
-}
+// let books = ' Ban  glA '
+// let subjects = 'Ban gla '
+// if(books.trim()  ===  subjects.trim()){
+//     console.log('i am bangla porty volo basice');
+// }
+// else{
+//     console.log('bangla khub hard subject');
+// }
+
+// const number = [45, 89, 90, 65, 87, 32]
+// console.log(number)
+
+// const reversed = number.reverse();
+// console.log(reversed)
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+// const reversed_number = [];
+
+// for(const num of number){
+//     // console.log(num)
+//     reversed_number.unshift(num)
+// }
+// console.log(reversed_number);

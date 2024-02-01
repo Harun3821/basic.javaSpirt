@@ -160,12 +160,22 @@
 
 // const reversed = number.reverse();
 // console.log(reversed)
-// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const fruirts = ['Apple', 'Oregeng', 'banana', 'jackfurit', 'batabelabu']
 
-// const reversed_number = [];
+// const reversed_fruirts = [];
 
-// for(const num of number){
+// for(const fruirt of fruirts){
 //     // console.log(num)
-//     reversed_number.unshift(num)
+//     reversed_fruirts.unshift(fruirt)
 // }
-// console.log(reversed_number);
+// console.log(reversed_fruirts);
+
+
+const names = ['harun', 'rahim', 'karum', 'abdulla', 'sorif'];
+
+const reversed_names = [];
+for(const name of names){
+    reversed_names.push;
+}
+console.log(reversed_names);
+

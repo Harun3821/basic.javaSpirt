@@ -24,3 +24,12 @@
 // const number_dsc = [...number].sort(function(a, b) {return b - a});
 // console.log(number_asc);
 // console.log(number_dsc);
+
+// const number = [4, 15, 6, 19, 2, 30, 22]
+// // const number_asc = number.sort()
+
+// const number_asc = [...number].sort(function(a, b) {return a - b});
+// const number_dsc = [...number].sort(function(a, b) {return b - a});
+
+//  console.log(number_asc);
+//  console.log(number_dsc);

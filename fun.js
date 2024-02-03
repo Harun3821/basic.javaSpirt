@@ -1,11 +1,11 @@
-let = 56;
+// let = 56;
 // function diclerson-------//
 
-// function lightof(){
-//     console.log('ajkey amara pincik kahabo');
-//     console.log('amar kacha taka nani keno');
-//     console.log('tu akta balkama amare ki korbi');
-// }
+function lightof(){
+    console.log('ajkey amara pincik kahabo');
+    console.log('amar kacha taka nani keno');
+    console.log('tu akta balkama amare ki korbi');
+}
 
 // call the function-------//
 
@@ -19,17 +19,17 @@ let = 56;
 // 6--> 6*6 = 36
 // 8--> 8*8 = 64
 
-// function square (number){
-//     console.log('valeu of the parameter', number)
-//     let square = number * number
-//     console.log('square of the numbere', square);
-// }
+function square (number){
+    console.log('valeu of the parameter', number)
+    let square = number * number
+    console.log('square of the numbere', square);
+}
 
 
-// square(5)
-// square(12)
-// square(50)
-// square(122)
+square(5)
+square(12)
+square(50)
+square(122)
 
 function add (num1, num2){
     let sum = num1 + num2;
